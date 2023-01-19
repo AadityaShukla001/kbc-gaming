@@ -1,0 +1,11 @@
+C:\Users\AADITYA SHUKLA\source\repos\KBC GAMING\KBC GAMING\bin\Debug\KBC GAMING.exe.config
+C:\Users\AADITYA SHUKLA\source\repos\KBC GAMING\KBC GAMING\bin\Debug\KBC GAMING.exe
+C:\Users\AADITYA SHUKLA\source\repos\KBC GAMING\KBC GAMING\bin\Debug\KBC GAMING.pdb
+C:\Users\AADITYA SHUKLA\source\repos\KBC GAMING\KBC GAMING\obj\Debug\KBC GAMING.csprojAssemblyReference.cache
+C:\Users\AADITYA SHUKLA\source\repos\KBC GAMING\KBC GAMING\obj\Debug\KBC_GAMING.Properties.Resources.resources
+C:\Users\AADITYA SHUKLA\source\repos\KBC GAMING\KBC GAMING\obj\Debug\KBC GAMING.csproj.GenerateResource.cache
+C:\Users\AADITYA SHUKLA\source\repos\KBC GAMING\KBC GAMING\obj\Debug\KBC GAMING.csproj.CoreCompileInputs.cache
+C:\Users\AADITYA SHUKLA\source\repos\KBC GAMING\KBC GAMING\obj\Debug\KBC GAMING.exe
+C:\Users\AADITYA SHUKLA\source\repos\KBC GAMING\KBC GAMING\obj\Debug\KBC GAMING.pdb
+C:\Users\AADITYA SHUKLA\source\repos\KBC GAMING\KBC GAMING\obj\Debug\KBC_GAMING.Form1.resources
+C:\Users\AADITYA SHUKLA\source\repos\KBC GAMING\KBC GAMING\obj\Debug\KBC_GAMING.Form2.resources
